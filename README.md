@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+
+I am practicing using github for sharing my work
